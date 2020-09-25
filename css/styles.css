@@ -24,7 +24,7 @@ body{
     flex-direction: row;
     margin-left:auto;
     margin-right: auto;
-    margin-top: 12em;
+    margin-top: 16em;
     background-color: white;
     border-radius: 10px;
 
@@ -150,6 +150,9 @@ position: absolute;
 }
 /*
 @media (max-width:1440.99px){
+    .container{
+        padding-top:2em
+    }
      .activate{
         margin-left:26em;
      }
@@ -171,8 +174,8 @@ position: absolute;
       .container-user{
           
       }
-}*/
-
+}
+*/
 @media only screen and (max-width:835.99px){
     .container{
         display: flex;
