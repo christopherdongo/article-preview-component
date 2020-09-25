@@ -21,7 +21,7 @@ body{
 .box{
     display: flex;
     width: 700px;
-    height: 260px;
+    height: 270px;
     flex-direction: row;
     margin-left:auto;
     margin-right: auto;
@@ -30,6 +30,7 @@ body{
     border-radius: 10px;
 
 }
+
 .container-img img{
     display: block;
     width:100%;
@@ -72,7 +73,7 @@ body{
 
 .description{
     display: block;
-    margin: 2em;
+    margin: 2.5em;
 }
 .description-info{
   font-size:22px;
